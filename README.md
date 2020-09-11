@@ -4,3 +4,5 @@
 void main(){
     int tmpVar;
 }
+
+test
