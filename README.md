@@ -8,3 +8,5 @@ void main(){
 test
 
 test9.12
+
+java语言测试
