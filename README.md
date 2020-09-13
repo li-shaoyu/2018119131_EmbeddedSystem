@@ -9,7 +9,14 @@ test
 
 test9.12
 
+<<<<<<< HEAD
+why？？？？？？？？？？
+
+
+我是c哟！！
+=======
 java语言测试
+<<<<<<< HEAD
 
 //测试
 public class StuLoginServlet extends HttpServlet {
@@ -42,3 +49,9 @@ public class StuLoginServlet extends HttpServlet {
 	}
 
 }
+=======
+>>>>>>> java
+>>>>>>> c
+
+
+test9.13
